@@ -1,0 +1,11 @@
+.form {
+    background: linear-gradient(145deg, #6b82f5 10%, #ee9fe5 70%) no-repeat;
+    margin: auto;
+    margin-top: 75px ;
+    padding: 20px;
+    border: 1px solid rgb(8, 8, 8);
+    width: 350px;
+    text-align: center;
+    border-radius: 5%;
+
+}
